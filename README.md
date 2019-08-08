@@ -7,9 +7,9 @@ This repo was created for a personal portfolio. Here you will find a lot of algo
 | ------------- | ------------- | ------------- |
 | [Decision Tree](Random%20Forests.ipynb) | [Linear Regression](Linear%20Regression.ipynb) | [K-Means](K-Means.ipynb) |
 | [KNN](KNN.ipynb) | [Linear Regression (Multiple vars)](Linear%20Regression%20with%20Multiple%20Variables.ipynb)  | [Mean Shift](Mean%20Shift.ipynb)  |
-| [Logistic Regression](Logistic%20Regression.ipynb) | [Random Forest](Random%20Forests.ipynb)  |  |
-| [Naive Bayes](Naive%20Bayes.ipynb) |  |  |  | 
-| [Neural Network](Neural%20Network%20MNIST.ipynb) |  |  |  | 
+| [Logistic Regression](Logistic%20Regression.ipynb) | [Neural Network](Neural%20Network%20Regression.ipynb)  |  |
+| [Naive Bayes](Naive%20Bayes.ipynb) | [Random Forest](Random%20Forests.ipynb)  |  | 
+| [Neural Network](Neural%20Network%20MNIST.ipynb) |  |  | 
 | [Random Forest](Random%20Forests.ipynb) |  |  | 
 | [SVM](SVM.ipynb) |  |  |  | 
 
