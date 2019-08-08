@@ -5,9 +5,10 @@ This repo was created for a personal portfolio. Here you will find a lot of algo
 
 | Classification  | Regression | Clustering |
 | ------------- | ------------- | ------------- |
-| [Logistic Regression](Logistic%20Regression.ipynb) | [Linear Regression](https://github.com/vmf91/MachineLearning/blob/master/Linear%20Regression.ipynb "Linear Regression")  | [K-Means](https://github.com/vmf91/MachineLearning/blob/master/K-Means.ipynb "K-Means") |
-| [KNN](https://github.com/vmf91/MachineLearning/blob/master/KNN.ipynb "KNN") | [Linear Regression (Multiple vars)](https://github.com/vmf91/MachineLearning/blob/master/Linear%20Regression%20with%20Multiple%20Variables.ipynb "Linear Regression (Multiple vars)")  |  |
-| [Ranom Forest](https://github.com/vmf91/MachineLearning/blob/master/Random%20Forests.ipynb "Ranom Forest") | [Random Forest](https://github.com/vmf91/MachineLearning/blob/master/Random%20Forests.ipynb "Random Forest")  |  |
-| [SVM](https://github.com/vmf91/MachineLearning/blob/master/SVM.ipynb "SVM") |  |  |  | 
+| [Decision Tree](Random%20Forests.ipynb) | [Linear Regression](Linear%20Regression.ipynb) | [K-Means](K-Means.ipynb) |
+| [KNN](KNN.ipynb) | [Linear Regression (Multiple vars)](Linear%20Regression%20with%20Multiple%20Variables.ipynb)  |  |
+| [Logistic Regression](Logistic%20Regression.ipynb) | [Random Forest](Random%20Forests.ipynb)  |  |
+| [Random Forest](Random%20Forests.ipynb) |  |  | 
+| [SVM](SVM.ipynb) |  |  |  | 
 
 
