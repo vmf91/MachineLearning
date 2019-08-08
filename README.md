@@ -6,7 +6,7 @@ This repo was created for a personal portfolio. Here you will find a lot of algo
 | Classification  | Regression | Clustering |
 | ------------- | ------------- | ------------- |
 | [Decision Tree](Random%20Forests.ipynb) | [Linear Regression](Linear%20Regression.ipynb) | [K-Means](K-Means.ipynb) |
-| [KNN](KNN.ipynb) | [Linear Regression (Multiple vars)](Linear%20Regression%20with%20Multiple%20Variables.ipynb)  |  |
+| [KNN](KNN.ipynb) | [Linear Regression (Multiple vars)](Linear%20Regression%20with%20Multiple%20Variables.ipynb)  | [Mean Shift](Mean%20Shift.ipynb)  |
 | [Logistic Regression](Logistic%20Regression.ipynb) | [Random Forest](Random%20Forests.ipynb)  |  |
 | [Random Forest](Random%20Forests.ipynb) |  |  | 
 | [SVM](SVM.ipynb) |  |  |  | 
