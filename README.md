@@ -5,7 +5,7 @@ This repo was created for a personal portfolio. Here you will find a lot of algo
 
 | Classification  | Regression | Clustering |
 | ------------- | ------------- | ------------- |
-| [Logistic Regression](https://github.com/vmf91/MachineLearning/blob/master/Logistic%20Regression.ipynb "Logistic Regression")  | [Linear Regression](https://github.com/vmf91/MachineLearning/blob/master/Linear%20Regression.ipynb "Linear Regression")  | [K-Means](https://github.com/vmf91/MachineLearning/blob/master/K-Means.ipynb "K-Means") |
+| [Logistic Regression](Logistic%20Regression.ipynb) | [Linear Regression](https://github.com/vmf91/MachineLearning/blob/master/Linear%20Regression.ipynb "Linear Regression")  | [K-Means](https://github.com/vmf91/MachineLearning/blob/master/K-Means.ipynb "K-Means") |
 | [KNN](https://github.com/vmf91/MachineLearning/blob/master/KNN.ipynb "KNN") | [Linear Regression (Multiple vars)](https://github.com/vmf91/MachineLearning/blob/master/Linear%20Regression%20with%20Multiple%20Variables.ipynb "Linear Regression (Multiple vars)")  |  |
 | [Ranom Forest](https://github.com/vmf91/MachineLearning/blob/master/Random%20Forests.ipynb "Ranom Forest") | [Random Forest](https://github.com/vmf91/MachineLearning/blob/master/Random%20Forests.ipynb "Random Forest")  |  |
 | [SVM](https://github.com/vmf91/MachineLearning/blob/master/SVM.ipynb "SVM") |  |  |  | 
