@@ -1,6 +1,5 @@
 This repo was created for a personal portfolio. Here you will find a lot of algorithms and projects related to Machine Learning. This is a collection of everything I have studied, developed and tested, including codes from books, articles and mine. Feel free to explore the codes yourselves as everything is under [MIT license](https://opensource.org/licenses/MIT "MIT license").
 
-
 ### Machine Learning Algorithms
 
 | Classification  | Regression | Clustering |
@@ -13,5 +12,7 @@ This repo was created for a personal portfolio. Here you will find a lot of algo
 | [Random Forest](Random%20Forests.ipynb) |  |  | 
 | [SVM](SVM.ipynb) |  |  |  | 
 
-### Deep Learning Algorithms
-- [Convolutional Neural Network on MNIST with 99.21% accuracy](CNN%20MNIST.ipynb)
+### Deep Learning Projects
+- [Handwritten digits recognition](CNN%20MNIST.ipynb): A Convolutional Neural Network to classify the MNIST dataset with 99.22% accuracy.
+- [Blood detection on CT scans](CNN3D%20DICOM.ipynb): A 3D Convolutional Neural Network to classify blood presence on CT scans with accuracy of 90%. Dicom preprocessing script included.
+*Note: The dataset used in this project is not public, but you are able to see the results.*
