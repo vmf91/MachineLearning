@@ -14,5 +14,5 @@ This repo was created for a personal portfolio. Here you will find a lot of algo
 
 ### Deep Learning Projects
 - [Handwritten digits recognition](CNN%20MNIST.ipynb): A Convolutional Neural Network to classify the MNIST dataset with 99.22% accuracy.
-- [Blood detection on CT scans](CNN3D%20DICOM.ipynb): A 3D Convolutional Neural Network to classify blood presence on CT scans with accuracy of 90%. Dicom preprocessing script included.
+- [Blood detection on CT scans](CNN3D%20DICOM.ipynb): A 3D Convolutional Neural Network to classify blood presence on CT scans with accuracy of 85.71%. Dicom preprocessing script included.
 *Note: The dataset used in this project is not public, but you are able to see the results.*
